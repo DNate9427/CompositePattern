@@ -1,0 +1,15 @@
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\CompositePattern.Menus.csproj.AssemblyReference.cache
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\CompositePattern.Menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\CompositePattern.Menus.AssemblyInfoInputs.cache
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\CompositePattern.Menus.AssemblyInfo.cs
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\CompositePattern.Menus.csproj.CoreCompileInputs.cache
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\bin\Debug\net6.0\CompositePattern.Menus.exe
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\bin\Debug\net6.0\CompositePattern.Menus.deps.json
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\bin\Debug\net6.0\CompositePattern.Menus.runtimeconfig.json
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\bin\Debug\net6.0\CompositePattern.Menus.dll
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\bin\Debug\net6.0\CompositePattern.Menus.pdb
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\CompositePattern.Menus.dll
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\refint\CompositePattern.Menus.dll
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\CompositePattern.Menus.pdb
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\CompositePattern.Menus.genruntimeconfig.cache
+C:\Users\DustinNation\source\repos\CompositePattern\CompositePattern.Menus\obj\Debug\net6.0\ref\CompositePattern.Menus.dll
